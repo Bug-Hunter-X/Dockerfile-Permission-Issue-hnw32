@@ -1,0 +1,1 @@
+This repository demonstrates a common Dockerfile error related to file permissions. The initial Dockerfile attempts to run a Python script without setting the appropriate execution permissions. The solution showcases the correct way to set permissions to fix this issue.
